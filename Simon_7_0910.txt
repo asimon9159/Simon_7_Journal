@@ -1,0 +1,12 @@
+
+Yesterday (09/09/15) we created our depositories and tried to enter in a journal entry. The steps we will have to use everytime we try to enter in a new journal is going into our depository.
+
+cd Simon_7_journals/
+
+Then we have to write:
+
+pico Simon_7_date.txt
+
+
+
+This is how we will enter our daily journals.
