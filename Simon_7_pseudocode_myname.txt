@@ -1,0 +1,39 @@
+Begin
+	start (0,0)
+	forward 10
+	right 5
+	down 10
+End
+
+Begin
+	start (0,5)
+	right 5
+	
+End
+
+Begin
+	start (6,0)
+	forward 5
+	right 5
+	down 2.5
+	forward 2.5
+	right 5
+	down 5
+End
+
+Begin
+	start (17,0)
+	forward 5
+	right 5
+	down 5
+	left 5
+End
+
+Begin
+	start (22,2.5)
+	right 2.5
+	down 2.5
+End
+
+Begin
+	
