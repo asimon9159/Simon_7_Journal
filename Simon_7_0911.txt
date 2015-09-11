@@ -1,0 +1,1 @@
+Pseudocode is a notation resembling a simplified and easier to use programming language. Pseudocode is good like code, but fake and easier to understand and to use. We will use pseudocode so that it is easier for use to use and understand, while helping us practice code, so that coding is not too impossible to understand and to navigate.
