@@ -1,0 +1,2 @@
+An IDE stands for Integrated Drive Electronics and is a standard electronic interface used between a computer motherboard's data pathsor bus and the computer's disk storage devices.
+It is good for maximizing programmer productivity by presenting one program where all development is done. (i.e. modifying)
