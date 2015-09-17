@@ -1,0 +1,9 @@
+What are five different JAVA data types? What are they used for?
+
+The five different data types are:
+	int - short for integer, used for whole number, no decimals        Ex.) -4, 2
+	float - 32 bit, used for decimals
+	short, long, double - (short)=16 bit, (long)=64 bit, (doubles)=64 bit - used for decimals numbers
+	Char - used for characters         Ex.) "b"; "1"; "+"
+	string - used for a collection of chars "wpo48utqw[3"
+	boolean - used for true or false, on and off
