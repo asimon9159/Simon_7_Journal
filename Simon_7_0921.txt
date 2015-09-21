@@ -1,0 +1,8 @@
+I only have 8/26/15 journal missing, yet every other journal grade is entered in.
+
+It is important that you use the naming convention specified when naming files is because it is easier to search and/or identifiy the file.
+
+The command in Linux to copy all of a directory to the current directory is: git all *
+Then you type: git commmit -m "titletitletitle"
+And finally type: git push -u
+(Enter git information)
