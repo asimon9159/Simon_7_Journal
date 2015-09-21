@@ -4,5 +4,5 @@ It is important that you use the naming convention specified when naming files i
 
 The command in Linux to copy all of a directory to the current directory is: git all *
 Then you type: git commmit -m "titletitletitle"
-And finally type: git push -u
+And finally type: git push -u origin master
 (Enter git information)
