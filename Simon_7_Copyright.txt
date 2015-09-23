@@ -19,3 +19,19 @@ license, I can share an edited copy of this to others."
 EULA = (Def.)An acronymn for End User License Agreement. (Ex.)"I did not like the EULA, therefore I did not accept the agreement."
 Creative Commons = (Def.)Allows the creators to express the rights they reserve, and they waive for the benefit of other creators (Ex.)"I have rights on my new software that I made,
 which means my work has creative commons."
+
+QUESTIONS:
+-Where have you seen the GNU General Public License before?
+We have seen this before in other softwares and programs that require this license for the public.
+
+-What is it saying?
+This license is saying that anyone can redistribute or modify it under the terms of GNUGP License.
+
+-What implications does this license have for the author? For the user?
+This license might not let the user have as much functions or abilities than the author, because of restrictions. THe author would have more access to editing and distributing the work.
+
+-When would you use this license?
+I would use this license whenever I'm making a program or software that can be editing by others.
+
+-When would you not use this license?
+I would not use this license whenever I don't want to share my work with others for them to modify.
