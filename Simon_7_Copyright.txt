@@ -1,0 +1,21 @@
+Copyright = (Def.)The laws to protect creative works in all medias. (Ex.)Copyright law applies to a movie series
+Copyleft = (Def.)THe ability to be used, modifiy, and or distributed freely within a boundary. (Ex.)Copyleft law applies to parodies
+Fair Use = (Def.)The use of text or a clip for educational, parodies, and entertainment reasons. (Ex.)Frozen is the New Black
+Free Speech = (Def.)The ability to speak under conditions. (Ex.)Opinions on a subject
+Free Software = (Def.)Programs that you can modify in any shape of form. (Ex.)Artweaver
+Freeware = (Def.)A software that is free (Ex.)Paint
+Public Domain = (Def.)Works that can used without copyright infringment. (Ex.)Ode To Joy
+File-Sharing = (Def.)When someone shares files from one computer to another. (Ex.)The sharing of "totally not illegal movies" file
+Piracy = (Def.)The downloading of something that is copyrighted and costs money, but it downloaded illegally. (Ex.)Torrenting Borderlands 2
+Plagiarism = (Def.)To take the work of someone else and claim it as your own work without crediting the author. (Ex.)Copy and Paste an essay
+Infringement = (Def.)The breaking of the copyright entitlement of something. (Ex.)Uploading the whole Avenger's movie on your blog
+Proprietary = (Def.)The ability of works to be used. (Ex.)A coding of a project that the user allows access to another
+Open Source = (Def.)A software or code that is public for anyone to modify, but not share. (Ex.)A class is able to modify and share within the class group
+GNU GPL License = (Def.)A license that allows users to edit, share and run a software. (Ex.)"I am able to do actions with this software."
+MIT License = (Def.)It allows reuse of proprietary softwares as long as copies of the software include a copy of the MIT Liecense Terms and Conditions. (Ex.)"I can access this software
+again because my other copy has the MIT License terms and conditions."
+Apache License = (Def.)It allows someone to modify and use software, as wells as being able to share different copies with no royalties. (Ex.)"Since this software has an apache 
+license, I can share an edited copy of this to others."
+EULA = (Def.)An acronymn for End User License Agreement. (Ex.)"I did not like the EULA, therefore I did not accept the agreement."
+Creative Commons = (Def.)Allows the creators to express the rights they reserve, and they waive for the benefit of other creators (Ex.)"I have rights on my new software that I made,
+which means my work has creative commons."
