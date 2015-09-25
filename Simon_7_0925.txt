@@ -1,0 +1,10 @@
+Paid License = A license that has been paid to be modified, to ensure that the software is legit.
+Shareware = A software that is allowed and is able to be shared.
+Trialware = A software that is freely accessable only by a trial.
+Ad-ware = A software that loads ads to generate revenue for the author.
+Crippleware = A software that can be modified, but can't be saved without you buying an upgrade.
+Freemium = A software that is free of charge, but requires money to get access or better items/functions. (i.e. Team Fortress 2)
+FreeWare (vs Free-OpenSource) = A software that is free of charge to use, but you can't look at the source code versus Open Source where you can view the source code.
+Richard Stallman = A software freedom activist and a computer programmer.
+Lawrence Lessig = A former board member of the Free Software Foundation and Software Freedom Law Center.
+Eben Moglen = The founder and chairman of Software Freedom Law Center, whose client list includes clients like the Free Software Foundation.
