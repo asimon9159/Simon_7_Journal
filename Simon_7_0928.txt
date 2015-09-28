@@ -1,0 +1,5 @@
+You count in Java by squaring. (i.e. 2, 4, 16, etc.)
+
+You check to see if a number is divisible by having (a number) % (the number you want to see be divided).
+
+You can track if a number has a divisor if the number (being divided is odd and is divided by 2) [or] has a remainder.
