@@ -1,0 +1,2 @@
+Code comments are comments made by someone editing the code about the code. Code comments are good for pointing out if there has been a modification, a note/question about the code
+to the author, and just comments about the code for the author to look at.

@@ -45,16 +45,20 @@ public class Simon_7_Counter {
         return (somenumber % 2 != 0);
     }
     
-        static boolean isPrime (int somenumber) {
+    static boolean isPrime (int somenumber) {
         int divisor = 0;
         for (int i = 2; i < somenumber; i++) {
             
             if((somenumber % i == 0)) {
                 divisor +=1;
             }
+            
         }
         return (divisor == 0);
+        
     }
+    
+    
     /* This was my experiment for isOdd
     int counter = 0;
     for(int i = 0; i < 100; i ++) {
