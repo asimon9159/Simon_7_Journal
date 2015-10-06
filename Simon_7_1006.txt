@@ -1,0 +1,7 @@
+Methods are functions that repeat a command more than once.
+
+Classes are a way to organize a set of codes.
+
+Instances are definined/creating a variable.
+
+Class Methods are are methods within a class and only for that class.
