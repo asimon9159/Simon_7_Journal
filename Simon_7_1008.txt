@@ -1,0 +1,10 @@
+My plans for my art project are to have shapes colored purple, black, gray, and white to represent the sexuality demi. If I am able to rearrange where the colors in which they 
+will form the demi(romantic/sexual) flag. 
+
+The methods I will use if I want to create different colors, shapes or anything else that I want to incorporate.
+
+I might incorporate a for loop if I want a repeat a set of commands or what I want to print.
+
+I might incorporate, if, else if, else, by creating loops or if I wanted different colors or shapes depending its conditions.
+
+I don't want to use math......But if I have to, I would use Geometry and Algebra 1 knowledge and skills.
