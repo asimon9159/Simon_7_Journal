@@ -1,4 +1,4 @@
-A Java class is an organizer that holds different kinds of codes and that works for a certain kind of motive/function.
+A Java class is an organizer/blueprint/template that holds different kinds of codes and that works for a certain kind of motive/function.
 
 A Java class is to be used in JavaFX for oraganizing the different codes altogether within the entire script.
 
