@@ -5,3 +5,236 @@ background to something that looks like a lake shore with lake/swamp plants, or 
 
 Right now, I have the main shell of a turtle, the feet, a head, simplistic eyes, opened gasping mouth, and half the scales on the shell. A very simple 
 drawing of a turtle, but I'm hoping to make this a sweet/cute or make it a Ninja Turtle.
+
+============================== Turtle Code ==============================
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package simon_7_methodmadnesspointillism;
+
+import javafx.application.Application;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.canvas.Canvas;
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.ArcType;
+import javafx.stage.Stage;
+
+/**
+ *
+ * @author asimon9159
+ */
+public class Simon_7_MethodMadnessPointillism extends Application {
+    public static void main(String[] args) {
+    launch(args);
+    }
+    
+    @Override
+    public void start(Stage primaryStage) {
+        primaryStage.setTitle("Drawing Operations Test");
+        Group root = new Group();
+        Canvas canvas = new Canvas(300, 230) ;
+        GraphicsContext gc = canvas.getGraphicsContext2D();
+        drawBackground(gc,0,0,300,230);
+        drawHead(gc);
+        drawShell(gc);
+        drawFeet(gc);
+        drawScales(gc);
+        drawEyes(gc);
+        drawMouth(gc);
+        drawEyebrow(gc);
+        root.getChildren().add(canvas);
+        primaryStage.setScene(new Scene(root));
+        primaryStage.show();
+    }
+    
+    private void drawBackground(GraphicsContext gc, int x, int y, int w, int h) {
+    gc.setFill(Color.GRAY);
+    gc.fillRect(x, y, w, h);
+}
+
+private void drawShell(GraphicsContext gc) {
+    gc.setFill(Color.DARKGREEN);
+    gc.fillOval(90, 30, 150, 150);
+}
+
+private void drawFeet(GraphicsContext gc) {
+    gc.setFill(Color.GREEN);
+    gc.fillArc(200, 150, 30, 30, 1, 240, ArcType.CHORD);
+    gc.fillArc(100, 150, 30, 30, 270, 240, ArcType.CHORD);
+}
+
+private void drawScales(GraphicsContext gc) {
+    gc.setFill(Color.BLACK);
+    gc.setStroke(Color.BLACK);
+    gc.setLineWidth(5);
+    gc.strokeLine(90, 110, 190, 170);
+    gc.strokeLine(100, 70, 230, 140);
+    gc.strokeLine(130, 40, 240, 100);
+}
+
+private void drawHead(GraphicsContext gc) {
+    gc.setFill(Color.GREEN);
+    gc.fillOval(30, 70, 70, 70);
+}
+
+private void drawEyes(GraphicsContext gc) {
+    gc.setFill(Color.BLACK);
+    gc.fillOval(50, 90, 10, 10);
+}
+
+private void drawMouth(GraphicsContext gc) {
+    gc.setFill(Color.BLACK);
+    gc.setStroke(Color.BLACK);
+    //gc.setLineWidth(5);     |     Line Width for the arc smile
+    //gc.strokeLine(40, 120, 80, 140);     |    Arc for a smile?
+    gc.fillOval(43, 110, 40, 20);
+}
+
+private void drawEyebrow(GraphicsContext gc) {
+    //Worried Eyebrow or Angry Eyebrow?
+    gc.setFill(Color.BLACK);
+    gc.setStroke(Color.BLACK);
+    gc.setLineWidth(5);
+    //Below command "gc.strokeLine(40, 90, 70, 40);" is an angry japanese turtle
+    gc.strokeLine(40, 90, 70, 40);
+    //gc.strokeLine(40, 90, 70, 90);     |     For a sarcastic turtle
+}
+
+//IDEA: Air bubbles? Cat-Fish Whisker Plants? Lake shore?
+//IDEA: Anime eyes?
+//IDEA: NINJA TURTLES?!
+//IDEA: Outline of whole turtle?
+
+    }
+
+
+============================== Turtle Code End ==============================
+
+
+
+
+============================== Animation Code ==============================
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package simon_7_methodmadness;
+
+//Create a different art program that has at least 5 different characteristics
+
+import javafx.animation.KeyFrame;
+import javafx.animation.KeyValue;
+import javafx.animation.Timeline;
+import javafx.application.Application;
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.Group;
+import javafx.scene.Node;
+import javafx.scene.Scene;
+import javafx.scene.effect.BlendMode;
+import javafx.scene.effect.BoxBlur;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.CycleMethod;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.paint.Stop;
+import javafx.scene.shape.Circle;
+import javafx.scene.shape.Rectangle;
+import javafx.scene.shape.StrokeType;
+import javafx.stage.Stage;
+import javafx.util.Duration;
+
+import static java.lang.Math.random;
+
+/**
+ *
+ * @author asimon9159
+ */
+public class Simon_7_MethodMadness extends Application {
+    
+        public static void main(String[] args) {
+        launch(args);
+    }
+           
+    @Override
+    public void start(Stage primaryStage) {
+        Group root = new Group();
+        Scene scene = new Scene(root, 800, 600, Color.BLACK);
+        primaryStage.setScene(scene);
+        Group circles = new Group();
+        for (int i = 0; i < 30; i++) {
+            Circle circle = new Circle(150, Color.web("white", 0.05));
+            circle.setStrokeType(StrokeType.OUTSIDE);
+            circle.setStroke(Color.web("white", 0.16));
+            circle.setStrokeWidth(4);
+            circles.getChildren().add(circle);
+        }
+        
+            Rectangle colors = new Rectangle(scene.getWidth(), scene.getHeight(),
+                    //add black "#000000"
+                new LinearGradient(0f, 1f, 1f, 0f, true, CycleMethod.NO_CYCLE, new Stop[]{
+                    new Stop(0, Color.web("#FFFFFF")),
+                    //white
+                    new Stop(0.10, Color.web("#823cb4")),
+                    //purple 0.14
+                    new Stop(0.20, Color.web("#6C7073")),
+                    //gray 0.28
+                    new Stop(0.30, Color.web("#000000")),
+                    //black 0.43
+                    new Stop(0.40, Color.web("#FFFFFF")),
+                    //white 0.57
+                    new Stop(0.50, Color.web("#823cb4")),
+                    //purple 0.71
+                    new Stop(0.60, Color.web("#6C7073")),
+                    //gray 0.35
+                    new Stop(0.70, Color.web("#000000")),
+                    //black 0.85
+                    new Stop(0.80, Color.web("#FFFFFF")),
+                    //white 1
+                    new Stop(0.90, Color.web("#823cb4")),
+                    //purple 0.90
+                    new Stop(1.00, Color.web("#6C7073")),
+                    //gray 1.00
+                    new Stop(1.10, Color.web("#000000")),
+                    //black 1.10
+                    
+                }));
+            
+
+            colors.widthProperty().bind(scene.widthProperty());
+            colors.heightProperty().bind(scene.heightProperty());
+            Group blendModeGroup =
+                    new Group(new Group(new Rectangle(scene.getWidth(), scene.getHeight(),
+                        Color.BLACK), circles), colors);
+            colors.setBlendMode(BlendMode.OVERLAY);
+        root.getChildren().add(blendModeGroup);      
+        circles.setEffect(new BoxBlur(10, 10, 3));
+        Timeline timeline = new Timeline();
+        for (Node circle : circles.getChildren()) {
+            timeline.getKeyFrames().addAll(
+                    new KeyFrame(Duration.ZERO, // set start position at 0
+                    new KeyValue(circle.translateXProperty(), random() * 800),
+                    new KeyValue(circle.translateYProperty(), random() * 600)),
+                    new KeyFrame(new Duration(40000), // set end position at 40s
+                    new KeyValue(circle.translateXProperty(), random() * 800),
+                    new KeyValue(circle.translateYProperty(), random() * 600)));
+        }
+        // play 40s of animation
+        timeline.play();
+        primaryStage.show();
+    }
+    
+    private void drawText(GraphicsContext message, int x, int y, int w, int h) {
+        message.fillText(STYLESHEET_MODENA, x, y);
+    }
+}
+
+    /**
+     * @param args the command line arguments
+     */
+    
+
+============================== Animation Code End==============================
