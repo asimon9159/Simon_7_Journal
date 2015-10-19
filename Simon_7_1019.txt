@@ -1,0 +1,22 @@
+1.) I admit that I am not almost done with my methods because I started a couple of days late with the project since I started on the 
+animation extra credit first.
+
+2.) I wrote different shape and color methods throughout my coding. I felt I was being repetitive by writing the more-or-less the same 
+thing, but only changing the types of colors or shapes or line widths.
+
+3.) I did noticed the sample code on github because I was going to try the extra credit.
+
+4.) I have not fully examined the sample code on github, though I did examine the codes somewhat because I wanted to see where I was 
+starting off with.
+
+5.) private void drawSquares (GraphicsContext gc) {
+	for __________________
+		gc.setFill(Colors.RED);
+		gc.fillRect(15,15,10,10);
+	} else if {
+		gc.setFill(Colors.RED);
+		gc.fillRect(10,10,5,5);
+	{ else {
+		gc.setFill(Colors.RED);
+		gc.fillRect(5,5,15,15);
+}
