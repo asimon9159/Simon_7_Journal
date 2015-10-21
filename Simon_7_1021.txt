@@ -1,0 +1,3 @@
+The purpose of the code and of the artwork itself is to help my understanding of methods by making a piece of computer 
+generated art that will allow me to use different commands that'll let me draw different objects (i.e. circles, lines, 
+colors, etc.)
