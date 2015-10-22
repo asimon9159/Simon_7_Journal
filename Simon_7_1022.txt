@@ -4,4 +4,5 @@ program is shown along with the picture itself as like a base. Also another purp
 because my computer science teacher, Mr. Davis, is taking up a code art grade, but that's besides the point.
 
 2.) The purpose of creating art with code is to help the creator understand and learn the use of methods/class and how 
-to ultilize methods/classes, as well as how to create art on JavaFX by creating a piece of artwork using the knowledge that we have received. 
+to ultilize methods/classes, as well as how to create art on JavaFX by creating a piece of artwork using the knowledge
+that we have received. 
