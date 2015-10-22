@@ -1,0 +1,6 @@
+1.) The purpose of the code art is to represent the most important part of my program and to show that I understand the 
+use of JavaFX by placing that code with the artwork that we made. Also another purpose of creating the code art is 
+because my computer science teacher, Mr. Davis, is taking up a code art grade, but that's besides the point.
+
+2.) The purpose of creating art with code is to help the student understand/learn the use of methods/class in JavaFX by 
+creating a piece of artwork using the knowledge that we have received. 
