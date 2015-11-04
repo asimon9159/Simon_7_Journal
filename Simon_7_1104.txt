@@ -1,0 +1,11 @@
+1.)A method opperates on the class as a whole for an object. It's catagorizes objects in the class.
+
+2.)I use the methods to do certain actions like play again so that the game is organized.
+
+3.)A while loop is a loop that functions "while" the program is running a specific method.
+
+4.)I used a while loop, boolean, and counter in my guessing game by naming certain actions (such 
+as playAgain) for booleans. For while loops, I ultilized it by placing it before the actual game 
+command lines so that the user can be able to do something while still playing the game. A counter 
+is used so that the user knows how many tries they have left or how many times you guessed right/
+wrong.
