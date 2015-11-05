@@ -1,0 +1,4 @@
+1.)A String is a sequence of characters.
+2.)Strings are good for asking what the user wants or tells what they are doing.
+3.)A string method is a method that awaits user inputs/is designed to receive user input.
+4.)You can identidy string methods by seeing if the program asks for the user's answer.
