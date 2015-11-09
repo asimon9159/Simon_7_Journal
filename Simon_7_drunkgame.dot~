@@ -1,0 +1,10 @@
+diagraph Simon_game {
+
+A [label="You are in a tavern"]
+B [label="You are drunk"]
+C [label="You are sober"]
+D [label="Fight someone?"]
+
+A -> B
+A -> C
+B -> D
