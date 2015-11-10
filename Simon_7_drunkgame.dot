@@ -1,6 +1,6 @@
 digraph Simon_game {
 
-1 [label="You are in a tavern. \n (Goal: Get home safely without \n making any trouble)"]
+1 [label="You are in a tavern and \n have been drinking some beer. \n (Goal: Get home safely without \n making any trouble)"]
 2 [label="You are drunk"]
 3 [label="You are sober"]
 4 [label="Fight someone?"]
@@ -10,10 +10,20 @@ digraph Simon_game {
 8 [label="Get drunk?"]
 9 [label="Yes"]
 10 [label="No"]
-11 [label="Do you leave \n the tavern?"]
+11 [label="You start to leave \n the tavern. Do you \n leave the tavern?"]
 12 [label="No"]
 13 [label="Yes"]
 14 [label="Push or Pull \n the door?"]
+15 [label="Push"]
+16 [label="Pull"]
+17 [label="You pushed the door, \n but to your avail \n and embarassament, the \n door does not open. \n You die of embarassment. \n ~Lose~"]
+18 [label="You pull the door, \n and walk outside to the \n chilly air and bright \n lit moon."]
+19 [label="The bartender seems to \n look in your direction and \n announces that the bar \n would be closing in 5 minutes. \n You decide to leave instead \n of waiting the 5 minutes. \n ~Win!~"]
+20 [label="Do you take a walk \n in the park nearby, \n or go home?"]
+21 [label="Go home"]
+22 [label="Take a walk"]
+23 [label="You start to head home, \n but since you were \n drinking away your problems \n earlier, you can't see \n well at night. You then \n fall down a pot hole \n because your sight didn't range \n to the hole in the ground. \n ~Lose~"]
+24 [label="You start to take a walk, \n but then remember that \n there is a killer on the loose. \n You decide to take a \n shortcut back home while \n speed walking home. \n ~Win!~"]
 
 1 -> 2
 1 -> 3
@@ -25,7 +35,19 @@ digraph Simon_game {
 8 -> 9
 8 -> 10
 9 -> 2
-
-
+10 -> 11
+11 -> 12
+11 -> 13
+13 -> 14
+14 -> 15
+14 -> 16
+15 -> 17
+16 -> 18
+12 -> 19
+18 -> 20
+20 -> 21
+20 -> 22
+21 -> 23
+22 -> 24
 
 }

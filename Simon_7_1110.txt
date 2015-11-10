@@ -1,0 +1,5 @@
+1.)In my game, I can track what challenges the player has solved by having a checklist for the user 
+while in the code I can use if statements.
+2.)I can track HP by using if statements (like if the character does so and so, they lose this many 
+points).
+3.)The user can use items if they find it in their environment. They can only collect items if they do certain actions.
