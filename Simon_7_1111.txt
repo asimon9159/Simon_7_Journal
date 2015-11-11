@@ -1,0 +1,3 @@
+1.)In my game, the main challenge the player most complete is get home safely without getting in trouble.
+2.)I can track whether they have been solved by not letting the character do or go somewhere until they finish the challenge.
+3.)User inputs and Scanners (a class) are applicable in the game.
