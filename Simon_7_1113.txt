@@ -1,0 +1,3 @@
+1.)I will use while loops in my game so that if the user dies/doesn't get the true end, 
+they have the choice to restart the game.
+2.)I will use methods in my game by catagorizing actions and scenes for the user and their user inputs.
