@@ -1,0 +1,3 @@
+1.) I will use methods in my game by catagorizing actions and scenes for the user and their user inputs.
+2.) Values that I can pass to them are actions that the user chose earlier can be referenced into another
+method. (i.e. if user picks A, but not B, they will experience the opposite of B)
