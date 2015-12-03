@@ -1,5 +1,0 @@
-The definition of the word "game": a game is a form of play, especially a competitive one played according to rules and decided by 
-[...] luck (according to Yahoo). So, by definition, my guessing game is a game.
-
-
-To make the game better, I can have different possibilities when the user guesses wrong.
