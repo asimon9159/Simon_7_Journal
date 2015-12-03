@@ -1,0 +1,3 @@
+I believe that I was, for the most part, successful with creating my game. I have achieved everything on the 
+rubric, however, there is a strech with the game enemies objects.I don't know if my while loop works as I 
+wanted it to, but I do have everything required in my codes.
