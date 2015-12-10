@@ -1,0 +1,6 @@
+The 2-D dungeon would have a wooden looking floor with stone cobble/tile walls that are equipped 
+with light sources evenly spaced. Every room would have an item or an enemy, sometimes coming upon 
+an empty room or an unique item. Some rooms will have a wooden door, which can be opened with a 
+key that can be found in a room. The atmosphere would be dark/omnious while in a pixelated form. 
+I want it to have an RPG feel to it, because it's been my dream to make a RPG game that I could 
+be pround of.
