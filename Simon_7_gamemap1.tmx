@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Floor1" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/floor/cobble_blood1.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="Wall1" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/wall/brick_gray0.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="grass0-dirt-mix3" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/floor/grass/grass0-dirt-mix3.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="4" name="dngn_enter_labyrinth" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/gateways/dngn_enter_labyrinth.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="5" name="grass_full" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/floor/grass/grass_full.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="6" name="dngn_dry_fountain" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/dngn_dry_fountain.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="7" name="dngn_altar_cheibriados_06" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/altars/dngn_altar_cheibriados_06.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="8" name="elephant_statue" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/elephant_statue.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="9" name="tree2_red" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../dungeon/crawl-tiles Oct-5-2010/dc-dngn/wall/tree2_red.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Cave_Floor" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJwDAAxLB0/6X77r+gg1jgAXxOkiRJkiRJkuR2T33S9P9amv5fS9P/a2n6fy1N/6+l6f+1NP2/lqb/19L0/1qa/l9L0/9rafp/LU3/r6Xp/7U0/b+Wpv/X0vT/Wpr+X0vT/2tp+n8tTf+vpen/tTT9v5am/9fS9P9amv5fS9P/a2n6fy1N/6+l6f+1NP2/lqb/19L0/1qa/l9L0/9rafp/LU3/r6Xp/7U0/b+Wpv/X0vT/Wpr+X0vT/2tp+n8tTf+vpen/tTT9v5am/9fS9P9amv5fS9P/a2n6fy1N/6+l6f+1kiRJkiRJkiRJkiRJkiRJkiRJ/vACu8EOnQ==
+  </data>
+ </layer>
+ <layer name="Outside_Floor" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2zEKgEAMAMGDw/9/2V6uFF3IDKRJFdg6awEAAAAAwAz7Mddht3+7bh49WvRo0aNFjxY9WvRo0aNFjxY9AAAAAAAAAAAAAAAAAJjk9EN3+q3jG3q06NGiR4seLXq06NGiR4seLXoAAAAAAAAAAAAAAAC87wYUqwKB
+  </data>
+ </layer>
+ <layer name="Outside_Deco" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2zEKwCAUBUGrQO5/4fSCXdAlmSmthMeWfwwAAAAAAPifa/F+b/0Fs3kXe5yhjyZ9NOijSR8N+mjSR4M+mvQBAAAAAAAAAAAAAAAAwFfNN3OrW0f2WN0w2uUMfbToo0UfLfpo0UeLPlr00aIPAAAAAAAAAAAAAACA9z20rQEt
+  </data>
+ </layer>
+ <layer name="Room_Misc" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3LENACAIBEA63X9iVzA2CNxN8AXV50MEAAAAAADQwcoOAAAAA+3sAAAAAAAAAAAAPLP9AAAAAPiLvgYAgMr8gKIaNwsAAAAAAAAAAAAAAAAAdw79WQAu
+  </data>
+ </layer>
+ <layer name="Walls" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztltuu6zAIRK3z/x99niptIRgG4vjSzpKqNg5gwhjSMYQQQgghhBBCCCGEEEL8Ov9+5HMLNtcV16vrLz3w9RvnXHr0r6tzxNp7MaRH/1p6xKzW47P2RI/M5pv0WLVnVw/r9+3v88/aGx+0J5vrL+qR3es83yo9RmBzC7v0eGNeeT5279NB/R79d9mhB7qXnZvOTN0FmrUn9Ufnfken3WR6oL7p7iM9YiI9mDnAxmf/E3XrlL0/PPvOPitg5lU378iWqVMVT09k+9fuNj0yH+8+OrMdPVAPZf6z+nAFqM+77w9UT8avM3sy/8wX2a3kjf7w7Bkfb96gd49n6+WHnoN53pV03x/ZO3kY32ou0Tzyao70QHpW+34FkR7Z2enOhCyXaM9Mm0wr68f01Q6y/ohyzr6f5OPFzHrHxvB+R3a/oEdntnVz8vaLYnlxT9UDzQTPHl1nNfd87b5sn1gfZl7ZuCiflWTnlT3nXg2z88vqheqF6p1dn6rHG/GQFlkP2nXUJ1EvRfFv0YOpSyWe9a9oEs0clGtkw2h3oh6f38zZrcaraMKcZ29PdrbdpIe97uQXnU9GEy9WpAfSz8u90i87OUGPqmZIx0wPJvedVGYIk+9bejD6dPvQ5r6TSg7ZTI5mwYwavq1F9HyriWaptxbpEcXNatLtAWadoavbm9haWz3sd6Uf2Oetaseso9go1m7Q2bc2WZxZmjDxozW0zjzDbip6zOiPrObeGrsn44M4TY+sflG9orgVbbJZVJlXyA5xkh5d2xn9YmMzfYXqH9W+05+rqdbzaezKeZ+hR6VXTtej4vt0vyyXKL9sXmV72dx2k+nB1u/pfijeUz28dXvPu94Bo4e193xRXGa/io/ND52JLH9kuwO2P4ZZ93yz9Zk+2Tzy8vXyR7Y7qMyrv+uRb/RBe3n3qvnZ3Iaz9g3zyrNHvkgPz8dbR/mhnJAe0X6e7U4qNWXqVfWzMbL8omdgcvH29uLcQFYTz46pyxg4Jjv/PFu7z3Du2b1ugdUj8mHOeRQjWmPieHpV9jqVTj0r8wvFiNaY+kZ9wu51Kp13RObL7ovWsncasmP2OpXue5vxZfbz7qH4yD5CevTjsuf9aS+eyqyaztKDzan6jLewW4tOfTvPeAu7dVihifQ47yOEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCDGD/49RDak=
+  </data>
+ </layer>
+ <layer name="Doors" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt20ENAAAIA7E98K8ZFWQhaRWcgUsAAAAAAAAAAACgY9oBAAAAAAAAAAAAAAAAwAnvEAAAAAAAAAAAAAAAAAAAAPDdAnddAAk=
+  </data>
+ </layer>
+</map>
