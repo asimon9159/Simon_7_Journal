@@ -1,0 +1,10 @@
+1.) I tried creating a game where you were a princess and you had to make it out of the cave.
+
+2.) I got the map to show up, made new items (i.e. annoying dog) to kill you instantly, etc.
+
+3.) I was finished with my spritesheets and maps because I was given a deadline for my game 
+progress and I tried sticking to it.
+
+4.) Unfortuneatly I was not able to complete the game on time, for I still need a working 
+antagonist (in case the annoying dog doesn't count), as well as a new menu, a new win screen, 
+and a new lose screen.

@@ -1,0 +1,4 @@
+1.) I will hope to try to make a game where you have to go find the exit, but in some rooms, there will 
+be enemies/healing potions/misc. items/etc.
+2.) Some challenges that I might face will be trying to make the enemies damage the user, adding things 
+to inventory, making some elements (such as health) drop/rise, etc.. 
