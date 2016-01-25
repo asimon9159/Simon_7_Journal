@@ -1,0 +1,6 @@
+1.) I could have made actual enemies that chased the player throughout the game. I also could have 
+made the walking paths wider and the blocking blocks needed to be fix to where it accomodated the 
+new walls.
+
+2.) I constantly needed and, for the most part, got help for my blocking blocks as well as changing 
+the stats of the enemies to where it's a threat to the player.
