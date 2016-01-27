@@ -1,0 +1,5 @@
+1.) I added an image to a slick game by using the code:
+Image image = new Image("res/PICNAME.png");
+
+2.) The image is drawn in the render class.
+
