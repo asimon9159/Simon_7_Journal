@@ -1,0 +1,10 @@
+1.) A class constructor is a organized grouper that groups a certain different classes that 
+have some characteristics that pertain to a certain object (i.e. different classes of health 
+damagers can be catagorized under "enemies").
+
+2.) Things like hitboxes and coordinates for the orbs should be included in a class constructor 
+for obs because it determines characteristics of those orbs.
+
+3.) The orb should have methods such as setters and/or getters so that there are some set 
+values for instance variables and there is something used to query the value of instance 
+variables.
