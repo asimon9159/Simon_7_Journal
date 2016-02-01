@@ -1,2 +1,4 @@
 1.) I would have to make the enemies chase the user, add a time component, include inventory, 
-and or have the user take damage rather than instant death.
+and or have the user take damage rather than instant death. To do that, I would have to set 
+a counter of a timer, will have to add a way for the user to pick up items and use if statements
+when fighting (chasing?) enemies, and would have to tidy up unnecessary codes.
