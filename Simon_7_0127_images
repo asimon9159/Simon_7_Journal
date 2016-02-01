@@ -1,0 +1,13 @@
+1.) You add an image to a slick game by referencing the image that should be inside the res 
+folder of the game, by using the code [ Image Dog = new Image("res/annoyingdog.png"); ]
+
+2.) The image is drawn in render/main when it is instansized, or called upon. 
+
+for (Dog d : kennel) {
+			if (d.isvisible) {
+				d.currentImage.draw(d.x, d.y);
+				// draw the hitbox
+				//d.draw(d.hitbox);
+
+			}
+		}
