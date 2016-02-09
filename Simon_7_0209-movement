@@ -1,0 +1,6 @@
+1.) I will be able to make the orb move in the direction the user wants (the way of direction they're 
+facing) by setting the orb's location to the player's location. 
+
+Such as in:
+orb1.setX((int) player.x); 
+orb1.setY((int) player.y);
