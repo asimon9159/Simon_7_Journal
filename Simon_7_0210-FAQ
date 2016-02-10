@@ -1,0 +1,20 @@
+1.) (Current) My orbs are invisible when the key is pressed/holded down. I believe that some stated 
+variable that isVisible in the orb class was set to true, instead of false or something along the 
+lines of that. I am determined to solve this problem today. 
+2.) (Current) My enemies are not able to die when shot by the orb. 
+3.) (Current) The orbs are not killing the enemies.
+4.) (Current) The orbs are not moving across/around the princess.
+5.) (Current) My enemies are not able to move yet.
+6.) The game was not accepting player or Player. So, I had to change (P/p)layer to princessdie by:
+          public static Player princessdie;
+7.) (Current) I have problems getting the orb to spawn from my character's coordinates.
+8.) (Current) I also have problems getting the orb to appear in the direction the user is facing.
+9.) There were a few times where the character could not go right, but any other direction. This 
+was solved by:
+          if (cangoright
+			&& (!(isBlocked(princessdie.x + SIZE + fdelta,
+
+			princessdie.y) || isBlocked(princessdie.x + SIZE + fdelta, princessdie.y
+10.) I also had trouble calling the orb picture from res/Orb/Ninja_#.png. It could not find the 
+picture of the orb, but I soon realized that I just named the orbs differently, a minor "problem" 
+that was easily fixable.
