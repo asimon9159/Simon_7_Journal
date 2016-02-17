@@ -1,0 +1,17 @@
+1.) Arrays are objects that are used as containers for multiple and different values of the same type.
+2.) The code for an int array is:
+	private int something;
+3.) The code for a string array is: 
+	private String something = new String[];
+4.) The code for a boolean arrray is:
+	private boolean something; 
+5.) The code for a double array is:
+	private double something;
+6.) You would change the first value of the int array to 42 by changing the code
+7.) You would change it to say "Bob" by chaning int to boolean.
+8.) This code is general and only gives three non-specific desserts that will probably chose from a list.
+9.) This code is specific and only knows and will use only those three desserts (rice pudding, pan dulce, 
+and banuelos) rather than some other dessert.
+10.) Number 8 is more general and will pick any other dessert within the arraylist while number 9 is 
+specific in its desserts.
+11.) You would replace "bunuelos" with "apple pie" by switching the two desserts within the code.
