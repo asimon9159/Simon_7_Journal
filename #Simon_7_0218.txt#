@@ -1,0 +1,16 @@
+1.) This code initailizes the the "up" looking sprite for the player from the ogrespriesheet.
+2.) It is unrealistic and unproductive to memorize Slick syntax because it will probably be 
+gone and won't be used in the future (of 10-20 years from now). We are trying to practice the 
+skill of how to problem-solve.
+3.) An arraylist is a list of a bunch of different kinds of one element.
+4.) You make an arraylist by following the format of String [] <element> = {"element1", "element2"}
+5.) An array is a more general, more random kind of element.
+6.) You make an array by following the format of for(int e = 0; e < element.length - 1; d++){
+	System.out.println(element[e]);}
+7.) The three useful arraylist methods that I identified are sort, fill, and stream.
+8.) Arrays could be resized while ArrayLists only have a certain size. We used ArrayLists 
+at the start of the code to state certain objects as a way to categorize these items. 
+9.) You make a health counter for an avatar by using the code:
+	public static int counter = 0;
+	counter += delta;
+	princessdie.health -= counter/1000;
