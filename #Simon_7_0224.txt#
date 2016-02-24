@@ -1,0 +1,15 @@
+1.) There is a subset encapsulation of rats, a template or blueprint for the rat creation.
+2.) public class Rat{
+    	    public int x;
+	    public int y;
+	    Image currentImage;
+	    Image Rat = new Image(
+	    	  "res/ogrespritesheet.png");
+	    Rat(int a, int b) throws SlickException{
+	    	    this.x = a;
+		    this.y = b;
+		    this.currentImage = Rat;
+	    }
+    }
+3.) You declare and initialize in main when you make a class.
+4.) int [] ratCoordinates = new int [(10,20), (20,30), (30,40), (40,50), (50,60)];
