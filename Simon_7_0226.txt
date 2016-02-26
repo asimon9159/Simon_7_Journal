@@ -1,0 +1,3 @@
+1.) The code switches between one map to another. 
+2.) You would change the (".") to ("x"), switch the coordinates for the x's in the for loop.
+3.) You would change the length to j's -> 4.
