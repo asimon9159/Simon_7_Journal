@@ -1,0 +1,32 @@
+1.) You create a class with the basic template:
+public class Element {
+}
+2.) That is not a class contructor, because a class constructor is a method inside a class that allows 
+you to set the variables of that class and create instances of that class. This uses a class constructor 
+to create an instance.
+3.) public class Donut{
+	int x, y;
+	boolean isGlazed;
+	boolean hasJelly;
+	float temperature;
+	public Donut (boolean a, boolean b, float c) {
+		this.isGlazed = a;
+		this.has Jelly = b;
+		this.temperature = c;
+	}
+	//a getter gets, i.e., a getter returns a variable value
+	//usually, a getter is a public method to get a private value
+	public boolean getHasJelly(){
+		return this.hasJelly;
+	}
+	public void setTemperature(float c){
+		this.temperature = c;
+	}
+}
+4.) A getter are methods that 'gets' values of instances.
+5.) A setter are methods that 'sets' values of instances.
+6.) An array of breakfast would include eggs, bacon, pancakes, coffee, etc. 
+	int [] coolnumberz; //this is an array of integers
+	String [] coolwords; //this is a string array
+	boolean [] [] blocked; //this is a 2D array of booleans
+	Breakfast [] 
