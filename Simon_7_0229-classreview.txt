@@ -24,9 +24,13 @@ to create an instance.
 	}
 }
 4.) A getter are methods that 'gets' values of instances.
+	FamilyBreakfast.getBreakfast();
 5.) A setter are methods that 'sets' values of instances.
+	FamilyBreakfast.setBreakfast();
 6.) An array of breakfast would include eggs, bacon, pancakes, coffee, etc. 
 	int [] coolnumberz; //this is an array of integers
 	String [] coolwords; //this is a string array
 	boolean [] [] blocked; //this is a 2D array of booleans
-	Breakfast [] 
+	Breakfast [] FamilyBreakfast = new Breakfast;
+	
+	
