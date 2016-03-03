@@ -1,0 +1,6 @@
+1.) I missed the first part where students were supposed to write down the example code, 
+making the array and making the class.
+2.) I could have written down a basic class with some variables and data types (i.e. strings, booleans, 
+ints) to help start the class.
+3.) I did, however, remember most of the vocab which all I need to do is connect them to 
+problem solving with my codes so that I have a better understanding of the lessons.
