@@ -1,0 +1,10 @@
+1.) 
+2.) 
+3.) A circuit is required to have a starting point and an end point (a positive and a negative)
+4.) 
+5.) Many projects I have 
+6.) My rough idea of my project will have the user press certain buttons in a specific order to light up 
+a pallete. If the user presses the wrong button they get a strike, each sound sounding with more base/bass(?) 
+(up to 3). At the end, if the user is successful, the entire song plays and the LEDs runs through the 
+pallete. If the user isn't successful, the "music box" "explodes".
+
