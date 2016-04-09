@@ -1,4 +1,5 @@
-1.) 
+1.) There seems to be similar programming such as (for) loops and if statements. However, I've noticed that 
+
 2.)  
 3.) A circuit is required to have a starting point and an end point (a positive and a negative)
 4.) 
@@ -7,4 +8,3 @@
 a pallete. If the user presses the wrong button they get a strike, each sound sounding with more base/bass(?) 
 (up to 3). At the end, if the user is successful, the entire song plays and the LEDs runs through the 
 pallete. If the user isn't successful, the "music box" "explodes".
-
