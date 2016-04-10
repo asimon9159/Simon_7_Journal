@@ -1,10 +1,27 @@
 1.) We have set up a definite goal for our projects, as well as set different frequencies 
-for the our jukebox, and were able to create a title with the LCD.
+for the our jukebox, and were able to create a title with the LCD. We have connected the 
+LCD and are currently trying to connect and see how the LCD will be able to interact with 
+the push buttons. Different notes have been added. Songs are currently being translated 
+with different and created notes.
+
 2.) We need to connect multiple buttons (at least 2) so that the user can scroll and 
-select options on the LCD and create the different songs using our frequencies.
+select options on the LCD and create the different songs using our frequencies. The LEDs 
+are to be connected at a later time in part that we believe it will cause the least 
+trouble when synching it with the song notes. Need to finish translating the songs with 
+the new notes soon. Will need to figure out how to use buttons to "scroll" on the LCD.
+
 3.) At this point of time, we will be able to play a song, show the song title/jukebox 
-name, and hopefully a LED that lights up with the song.
+name, and hopefully a LED that lights up with the song. By Friday, I can most definitely 
+confirm that we will be able to produce multiple songs chosen by the user (however, not 
+shown on the LCD just yet) and will have at least one LED that will blink along to one 
+tone of the song (with goals of having multiple LEDs lighting up for different notes).
+
 4.) The different frequencies, the user input for buttons, a mash of the LCD, buttons, 
-tuner, and LED coding.
+tuner, and LED coding. If statements that would correspond with the user pushed-buttons 
+that will identify which songs, presumably in methods, to pick. We have also changed 
+how the LEDs will light and blink, and displays.
+
 5.) The user will be able to scroll and select between songs (as for user input). The 
-LCD will be able to show the song title and other details of the user chosen song.
+LCD will be able to show the song title and other details of the user chosen song. We 
+are trying to create the function of a button choosing and playing the songs (i.e. 
+button1 will play song1, button2 will play song2, etc.).
