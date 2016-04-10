@@ -1,10 +1,24 @@
-1.) There seems to be similar programming such as (for) loops and if statements. However, I've noticed that 
+1.) I have seen some uses of arrays, but in a different sense with the use of objects or 
+variables like sound as well as if statements scattered throughout. However, there seems to 
+be similar programming such as (for) loops. 
 
-2.)  
-3.) A circuit is required to have a starting point and an end point (a positive and a negative)
-4.) 
-5.) Many projects I have 
-6.) My rough idea of my project will have the user press certain buttons in a specific order to light up 
-a pallete. If the user presses the wrong button they get a strike, each sound sounding with more base/bass(?) 
-(up to 3). At the end, if the user is successful, the entire song plays and the LEDs runs through the 
-pallete. If the user isn't successful, the "music box" "explodes".
+2.) I will create and arrange different notes to create snippets of songs, make different 
+opportunities for user input or display.
+
+3.) A circuit is required to have a starting connecting point and an end point (a positive and a 
+negative), as well as a power source.
+
+4.) Programs are compiled with arduino by the code being uploaded to Arduino's storage in a 
+package.
+
+5.) Many projects I have completed have taught me how certain objects need to be connected to 
+each other in order to work (such as an LED would need to be connected to power). For some 
+projects to work, there are certain items needed to help run the project to complete its goal 
+that is also compatiable for the user to see/hear/etc (i.e. an LCD would need a display 
+contrast pin to display the contrast of the LCD).
+
+6.) My rough idea of my project will have the user press certain buttons in a specific order 
+to light up a pallete. If the user presses the wrong button they get a strike, each sound 
+sounding with more base/bass(?) (up to 3). At the end, if the user is successful, the entire 
+song plays and the LEDs runs through the pallete. If the user isn't successful, the "music 
+box" "explodes".
