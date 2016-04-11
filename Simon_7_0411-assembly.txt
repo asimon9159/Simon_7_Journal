@@ -1,0 +1,19 @@
+1.) I would assume that assembly is the combination or the creation of a project, 
+program, or code. Assembly is a low level language.
+
+2.) Assembly gives direct and complete control over system hardware.
+
+3.) Assembly language programs are not portable. Learning the assembly is more 
+difficult than learning java. Programming in the assembly language is a tedious 
+and error-prone procress. High-level languages should be natural preference for 
+common applications.
+
+4.) High level language programs are portable, low levels are not. In high-level 
+languages, the program development is faster, fewer lines of code, and the program 
+maintenance is easier.
+
+5.) Java is high level language, because it's a natural preference for common 
+applications.
+
+6.) Assembly is low level language, because programming in the assembly language 
+is a tedious and error-prone process.
