@@ -1,0 +1,7 @@
+1.) Some similarities I noticed between assembly and Human Resource Machine 
+were the (un)conditional jumps that are available to the user. Transfer of control 
+is also the same.
+
+2.) Some differences that I noticed between assembly and Human Resource Machine 
+were the limited conditional jumps that HRM provides for the user whereas assembly 
+includes a wide variety of conditional jumps.
