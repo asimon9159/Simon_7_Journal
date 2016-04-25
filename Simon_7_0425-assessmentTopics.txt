@@ -1,0 +1,13 @@
+1.) Java syntax
+2.) Problem Solving
+3.) Low/High Level
+4.) Arduino coding/reasoning
+5.) Order of coding/Importance of what comes first
+6.) Assembly
+7.) Basic terminal commands
+8.) CS Terms (i.e. methods, classes, etc.)
+9.) Slick
+10.) Libraries
+11.) OOP
+
+etc.
