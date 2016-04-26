@@ -1,0 +1,27 @@
+1.) public static cubic(int a, int b){
+	int b;
+	//or is it b = #; ?
+	int a;
+	a = b * b * b;
+	return a;
+}
+
+2.) int cubic(int a, int b){
+	b = #;
+	a = b * b * b;
+	return a;
+}
+
+3.) public class student{
+	String name;
+	int grade;
+	boolean hashair;
+	String hairtype;
+	String eyecolor;
+	String clothingstyle;
+}
+
+4.) If we were to continue with arduino, I would create a program that the hotter 
+the heat signature strip gets, the higher the note and/or the brighter an LED (LEDs 
+in a row with one being cold, and the most being the hottest). Or the easier go to, 
+a bomb that you have to defuse.
