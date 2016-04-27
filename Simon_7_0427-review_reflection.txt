@@ -1,0 +1,10 @@
+1.) Students are encouraged to learn CS so that they not only know the facts, but they can connect those ideas to other leading 
+patterns, skills, problems, etc. By memorizing CS, you are not really learning anything, you aren't taking in what CS has to offer. 
+The student is not understanding the full extend, but rather they are "learning" the basic minimum.
+
+2.) Students should learn what the basic commands, logistics, and ethics are from CS. By learning these things in CS, students 
+will be able to understand and piece together ideas and problems that they are unable to solve. The importance of organizing one's 
+thoughts and not proceeding in a haphazard manner is that the student knows what he is doing, and know which direction he is 
+proceeding in. If theperson is proceeding in a risky way, he could make several mistakes in which he does not know what to do. At 
+the beginning of the class this year, we talked about how if you can't help another student, that means that you don't understand 
+what to do yourself.
