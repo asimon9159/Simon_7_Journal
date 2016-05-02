@@ -1,3 +1,5 @@
+TO BE CONTINUED - NOT FINISHED - MOVED ONTO JAVA TO PROGRESS
+
 1.) An array is a group of objects up to a certain size. 
 2.) You can make a simple array of strings by 
 3.) For a 2-D array, 
