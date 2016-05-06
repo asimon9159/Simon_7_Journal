@@ -1,0 +1,14 @@
+1.) The x coordinate is 43 while the y coordinate is 67 because it is switched 
+because j is inverse of x and i is inverse of y.
+2.) if (i=0){ System.out.print("8888"); This prints 8888 if the y coordinate is 
+on 0.
+3.) System.out.print(map[i][j]); This prints the coordinations of the user if 
+map[i][f] = 'x'.
+4.) System.out.println("."); This prints out . if j!=0. it is different that #e 
+because it uses a line separater.
+5.) System.out.println(map[i][j]); This prints the coordinations of the user if 
+i != 0.
+6.) You can use a boolean with a while loop by putting your boolean inside the 
+while loop or by calling it from the inside.
+7.) Static keeps a variable constant or permanently conditionally.
+8.) I could use an object with my game by having a shooter.
