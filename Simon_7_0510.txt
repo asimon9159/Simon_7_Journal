@@ -1,0 +1,29 @@
+1.) You would not initialize the hero in class hero because the class is just 
+stating the parameters of the hero (i.e. how much health). You actually have 
+to call the hero outside of the class because the hero himself if not a description 
+of himself.
+
+public class Hero() {
+	int health = 100;
+	int score = 0;
+	String username;
+	boolean weapon;
+	int speed = 5;
+	int sight = 5;
+	int level = 0;
+	int x = 0;
+	int y = 0;
+	int z = 0;
+	String symbol = 'X';
+
+	public static void intro(){
+		Scanner theirname = new Scanner(System.in);
+		System.out.println("What's your name?");
+		username = theirname.nextLine();
+		System.out.println("Pick a number between 1 and 10");
+		int y = userinput0.newLine();
+		System.out.println("Pick another number");
+		int x = userinput1.newLine();
+		map[n][m] = 'X';	
+}
+}
