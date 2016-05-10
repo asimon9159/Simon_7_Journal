@@ -1,14 +1,13 @@
-TO BE CONTINUED - NOT FINISHED - MOVED ONTO JAVA TO PROGRESS
-
-1.) An array is a group of objects up to a certain size. 
-2.) You can make a simple array of strings by 
-3.) For a 2-D array, 
-4.) For a 3-D array, 
-5.) You can change the value for the third calude in a one dimensional array by 
-6.) For a while loop, 
-7.) We should use while loops in our game because 
-8.) I will call my game in man by 
-9.) It is recommended that I use .toLowerCase() with your scanner input because 
-10.) You should use different methods when moving the protagonist and to check 
-for intersections by ___ because___.
-11.) You can pass values across methods such as ___ by ___ because ___
+1.) An array is a group of variables. 
+2.) char states[] = { "Texas", "Ohio", "New York" }; int num_states = 3;
+3.) For a 2-D array, you need to state what y and x coordinate and what you want to print in that coordinates. map[0][0] = 'x';
+4.) For a 3-D array, you need three coordinates map [0][0][0] = 'x';
+5.) You can change the value for the third value in a one dimensional array by changing the variable in the []. map[i] = 'x';
+6.) while(expression){
+  // statement(s)
+}
+7.) We should use while loops in our game because we need some part of the code to repeat continuously (i.e. user input until they enter the correct answer).
+8.) I will call my game in man by calling gamename();.
+9.) It is recommended that I use .toLowerCase() with your scanner input because the user can enter in Upper case or lower case, so we should treat the userinput as the same.
+10.) You should use different methods when moving the protagonist and to check for intersections by checking if they user coordinates are the same as the other objects because if we check if they intersect, it should trigger some sort of action (i.e. death).
+11.) You can pass values across methods such as user coordinates by making the variable public so that it is accessible to every method.
