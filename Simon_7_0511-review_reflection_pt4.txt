@@ -1,0 +1,2 @@
+1.) Nested for loops check if the coordinate variables intersect with each other, 
+and if so, they change the board according to it.
