@@ -6,7 +6,7 @@ table = chair;
 3.) Down-Casting is changing one superclass to a subclass. 
 int chair = 2;
 double = (int)chair; 
-4.) The range of values for byte is 
+4.) The range of values for byte is -128 to 127, or more specifically:
 char = -128 to 127 || 0 to 255
 int = -32,768 to 32,767
 short = -32,768 to 32,767
