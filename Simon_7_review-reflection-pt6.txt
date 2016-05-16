@@ -1,0 +1,18 @@
+1.) Casting is changing one data-type to another. 
+2.) Up-casting is changing one subclass to a superclass.
+int chair = 2;
+double table;
+table = chair;
+3.) Down-Casting is changing one superclass to a subclass. 
+int chair = 2;
+double = (int)chair; 
+4.) The range of values for byte is 
+char = -128 to 127 || 0 to 255
+int = -32,768 to 32,767
+short = -32,768 to 32,767
+long = -2,147,483,648 to 2,147,483,647
+because it is their standard storage sizes..
+5.) Converting a char to a String: 
+char c = 'c';
+String sally;
+sally = '' + c;
